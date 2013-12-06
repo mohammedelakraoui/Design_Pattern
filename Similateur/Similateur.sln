@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Similateur", "Similateur\Similateur.csproj", "{4F74E1C0-268D-4A07-8188-F85B2680A198}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulateur", "Similateur\Simulateur.csproj", "{4F74E1C0-268D-4A07-8188-F85B2680A198}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
