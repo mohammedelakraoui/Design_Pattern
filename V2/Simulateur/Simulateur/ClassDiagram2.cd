@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Simulateur.Comportement.ComportementAcheval" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comportement\ComportementAcheval.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Comportement.ComportementApiedAvecHache" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comportement\ComportementApiedAvecHache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Comportement.ComportementAvecArc" Collapsed="true">
+    <Position X="5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comportement\ComportementAvecArc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Comportement.ComportementCombat" Collapsed="true">
+    <Position X="2.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comportement\ComportementCombat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Comportement.ComportementCrier" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comportement\ComportementCrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Comportement.ComportementEmettreUnSon" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comportement\ComportementEmettreUnSon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Comportement.ComportementLectureMusic" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAAAAAAAAAAQAAAAAAAAAAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>Comportement\ComportementLectureMusic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Comportement.ComportementParler" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comportement\ComportementParler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Comportement.ComportementParlerPrincesse" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comportement\ComportementParlerPrincesse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Config" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9wAABBQAACAAAPBQAACgAAECCACIARAAACgAiABAAAA=</HashCode>
+      <FileName>Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Form1" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ER4LYhADECAAAQBCUUDIQBACAICENAiAf0ZwCABAGQA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Program" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.ProgressShowDialog" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQACAAAEAAAACQAAACAAAAgAQABAAAAAEAAAA=</HashCode>
+      <FileName>ProgressShowDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Decorateur.Decoration" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorateur\Decoration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Obeservateur.Observer">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIEAAACABAAAAAAAQAAAAAAAAAIQAAABBAAAoAAA=</HashCode>
+      <FileName>Obeservateur\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Observateur.InterfaceJeu" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAQAAAAAEAAAUAAADAAAAEAAA=</HashCode>
+      <FileName>Obeservateur\InterfaceJeu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.ManagerPerson.Archer" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAAAAAAAAAgAAAAQAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>PersonManager\Archer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.ManagerPerson.Chevalier" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAgAAAAQAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonManager\Chevalier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.ManagerPerson.Fantassin" Collapsed="true">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAgAAIAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonManager\Fantassin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.ManagerPerson.Personnages" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAgAKABAAAAAAAQRAEAACBIAAQAAABBEAAIAAA=</HashCode>
+      <FileName>PersonManager\Personnages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.ManagerPerson.Princesse" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>PersonManager\Princesse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.ManagerPerson.SimulateurJeu" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQBAABAAAQAAAAAAAAAAAAAAAAAABAAAAAAEA=</HashCode>
+      <FileName>PersonManager\SimulateurJeu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Play.Play" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Play\Play.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Properties.Resources" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABFIACAQAAAAAAAAACAAEAAIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Properties.Settings" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulateur.Singleton.Cadeau" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAgAAAAQAAAAADAAAQAAAAAEAAAAAA=</HashCode>
+      <FileName>Singleton\Cadeau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Simulateur.Obeservateur.EtatMajor" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Obeservateur\EtatMajor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
